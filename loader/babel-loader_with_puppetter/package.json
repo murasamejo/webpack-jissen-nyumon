@@ -1,8 +1,15 @@
 {
+  "name": "using-babel-loader_with_puppeteer",
+  "scripts": {
+    "build": "webpack"
+  },
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "@babel/core": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
     "babel-loader": "^8.0.6",
+    "puppeteer": "^2.1.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   }
