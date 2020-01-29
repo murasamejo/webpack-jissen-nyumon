@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/js/app.js',
+  entry: './src/ts/app.ts',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'public/js')
@@ -20,6 +20,11 @@ module.exports = {
             }
           }
         ]
+      },
+      {
+        test: /\.ts$/,
+        include: path.resolve(__dirname, 'src/ts'),
+        use: 'ts-loader'
       }
     ]
   }

@@ -1,4 +1,10 @@
 {
+  "name": "ts_babel-loader",
+  "scripts": {
+    "build": "webpack"
+  },
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "@babel/core": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
