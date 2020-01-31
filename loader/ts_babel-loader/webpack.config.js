@@ -27,5 +27,8 @@ module.exports = {
         use: 'ts-loader'
       }
     ]
+  },
+  externals: {
+    puppeteer: 'require("puppeteer")'
   }
 };
