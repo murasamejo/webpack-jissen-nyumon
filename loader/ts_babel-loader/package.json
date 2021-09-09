@@ -6,10 +6,10 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@babel/core": "7.10.5",
-    "@babel/preset-env": "7.10.4",
+    "@babel/core": "7.15.5",
+    "@babel/preset-env": "7.15.6",
     "@types/puppeteer": "^2.0.0",
-    "babel-loader": "8.1.0",
+    "babel-loader": "8.2.2",
     "puppeteer": "^2.1.0",
     "ts-loader": "^6.2.1",
     "ts-node": "^8.6.2",
