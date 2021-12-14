@@ -6,8 +6,8 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@babel/core": "7.16.0",
-    "@babel/preset-env": "7.16.4",
+    "@babel/core": "7.16.5",
+    "@babel/preset-env": "7.16.5",
     "@types/puppeteer": "2.1.6",
     "babel-loader": "8.2.3",
     "puppeteer": "12.0.1",
