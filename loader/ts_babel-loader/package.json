@@ -10,7 +10,7 @@
     "@babel/preset-env": "7.16.5",
     "@types/puppeteer": "2.1.6",
     "babel-loader": "8.2.3",
-    "puppeteer": "12.0.1",
+    "puppeteer": "13.0.0",
     "ts-loader": "6.2.2",
     "ts-node": "10.4.0",
     "typescript": "3.9.7",
