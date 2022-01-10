@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@babel/core": "7.16.7",
-    "@babel/preset-env": "7.16.7",
+    "@babel/preset-env": "7.16.8",
     "babel-loader": "8.2.3",
     "puppeteer": "13.0.1",
     "webpack": "4.46.0",
